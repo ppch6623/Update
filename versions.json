@@ -3,12 +3,7 @@
     {
       "name": "Version 1.0.0",
       "version_code": 1,
-      "url": "https://raw.githubusercontent.com/ppch6623/Update/main/firmware_v1.bin"
-    },
-    {
-      "name": "Version 1.1.0",
-      "version_code": 2,
-      "url": "https://raw.githubusercontent.com/ppch6623/Update/main/firmware_v2.bin"
+      "url": "https://raw.githubusercontent.com/ppch6623/Update/main/Version1.0.0.bin"
     }
   ]
 }
